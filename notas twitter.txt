@@ -1,0 +1,28 @@
+source env/Scripts/activate
+
+links: 
+
+Los siguientes tres son los que me han funcionad
+https://docs.tweepy.org/en/stable/client.html#tweepy.Client.get_users_tweets
+https://dev.to/twitterdev/a-comprehensive-guide-for-using-the-twitter-api-v2-using-tweepy-in-python-15d9
+https://tweeterid.com/
+
+
+https://developer.twitter.com/en/docs/twitter-api/tweets/search/integrate/build-a-query
+https://developer.twitter.com/en/docs/twitter-api/tweets/search/api-reference/get-tweets-search-recent
+https://docs.tweepy.org/en/stable/client.html
+
+https://datascienceparichay.com/article/python-get-data-from-twitter-api-v2/
+https://medium.com/@robguilarr/making-queries-to-twitter-api-on-tweepy-66afeb7184a4
+
+
+
+https://dev.to/twitterdev/a-comprehensive-guide-for-using-the-twitter-api-v2-using-tweepy-in-python-15d9
+https://developer.twitter.com/en/portal/dashboard
+https://github.com/twitterdev/Twitter-API-v2-sample-code
+https://developer.twitter.com/en/use-cases/teach-and-learn
+https://developer.twitter.com/en/docs/twitter-api/tools-and-libraries/v2
+
+
+
+
